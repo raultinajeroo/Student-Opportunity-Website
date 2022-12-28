@@ -1,0 +1,1 @@
+<?phpsession_start();require_once('config.php');$_SESSION['logged_in'] = false;header('Location: index.php');?>
